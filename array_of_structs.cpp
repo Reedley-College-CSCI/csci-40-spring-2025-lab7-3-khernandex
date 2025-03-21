@@ -20,7 +20,7 @@ TemperatureRecord findMax(const ???);
 double findAverage(const ???);
 
 // TODO: Step 2 - Declare an array of TemperatureRecord structs (MAX_DAYS size)
-TemperatureRecord MAX_DAYS[30];
+TemperatureRecord day[MAX_DAYS];
 
 int main() {
     
